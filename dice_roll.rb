@@ -1,3 +1,3 @@
-def roll("rand(1..6")
-puts "rand(1..6)"
+def roll(x = "rand(1..6)")
+puts "x"
 end
